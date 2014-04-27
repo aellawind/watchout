@@ -1,5 +1,18 @@
-/* your beautiful css styling goes here! */
 
-/* Note: an asteroid image is included in this repo. 
-Feel free to use it if you like. */
 
+.gameArea {
+  background-color: #CCFFFF;
+  margin-left: auto;
+  margin-right:auto;
+  display: block;
+}
+
+.scoreboard {
+  width: 150px;
+  border-color:black;
+  border-style:inset;
+  padding:2px;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom:10px;
+}
